@@ -1,2 +1,4 @@
 # hello-world
-Learning github!!!!
+
+Learning how to work with github
+Enjoying coding with C++ now.
